@@ -1,0 +1,35 @@
+
+
+@media only screen and (max-width: 1200px) {
+	.hero-text-box{
+		width: 100%;
+		padding: 0 2%;	
+	}
+
+	.row{padding: 0 2%;}
+
+}
+/*small tablets to big tablets */
+@media only screen and (max-width: 1023px) {
+	body{font-size: 18px;}
+	section {padding: 60px 0;}
+	.long-copy{
+		width: 80%;
+		margin-left: 10%;
+	}
+	.steps-box {margin-top: 10px;}
+	.works-steps { margin-bottom: 40px; }
+
+}
+
+/* small phones to small tablets */
+@media only screen and (max-width: 767px) {
+	
+
+}
+
+/* Small phone from 0 to 480px */
+@media only screen and (max-width: 480px) {
+
+
+}
